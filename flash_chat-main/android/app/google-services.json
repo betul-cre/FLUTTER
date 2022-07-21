@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1043822519609",
+    "project_id": "flash-chat-a6900",
+    "storage_bucket": "flash-chat-a6900.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043822519609:android:e8c7415c54aa1fc081f4e8",
+        "android_client_info": {
+          "package_name": "co.appbrewery.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043822519609-5rjtmihkqp6u5t9lutubk0n38amttmkh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF6nihbF-Xp2fD3YvN7EqlH-ve371wTa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043822519609-5rjtmihkqp6u5t9lutubk0n38amttmkh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

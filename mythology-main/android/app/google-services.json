@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "416672743001",
+    "project_id": "mythology-ae1cb",
+    "storage_bucket": "mythology-ae1cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416672743001:android:c26bef722ea0984793bb48",
+        "android_client_info": {
+          "package_name": "com.example.untitled1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416672743001-3p9m350s5iuik3bugl4qq1nhlr6uevi2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgstnCAjI8s_JXm5x2KELrdxiXwwtZWVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416672743001-3p9m350s5iuik3bugl4qq1nhlr6uevi2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
